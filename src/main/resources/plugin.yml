@@ -1,0 +1,7 @@
+name: FirstPlugin
+version: '${project.version}'
+main: org.emrage.firstplugin.Main
+api-version: '1.20'
+load: STARTUP
+commands:
+  heal:
